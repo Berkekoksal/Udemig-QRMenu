@@ -14,4 +14,14 @@ This project is an example of an e-commerce application where users can view pro
 
 - Responsive Design: The layout adapts to different screen sizes, ensuring accessibility on various devices.
 
-<h2></h2>
+<h2>Technologies Used</h2>
+
+- HTML5: For structuring the web pages.
+
+- CSS3: For styling the application and ensuring responsive design.
+
+- JavaScript: For dynamic interactions, data fetching, and rendering product details.
+
+- Fetch API: To retrieve data from a local JSON file.
+
+- JSON: Used to store product data.
